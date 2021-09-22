@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nicolaReact/static/css/main.a617e044.chunk.css",
+    "main.js": "/nicolaReact/static/js/main.f0780d52.chunk.js",
+    "main.js.map": "/nicolaReact/static/js/main.f0780d52.chunk.js.map",
+    "runtime-main.js": "/nicolaReact/static/js/runtime-main.b28730bd.js",
+    "runtime-main.js.map": "/nicolaReact/static/js/runtime-main.b28730bd.js.map",
+    "static/js/2.fbafb762.chunk.js": "/nicolaReact/static/js/2.fbafb762.chunk.js",
+    "static/js/2.fbafb762.chunk.js.map": "/nicolaReact/static/js/2.fbafb762.chunk.js.map",
+    "static/js/3.ce44509c.chunk.js": "/nicolaReact/static/js/3.ce44509c.chunk.js",
+    "static/js/3.ce44509c.chunk.js.map": "/nicolaReact/static/js/3.ce44509c.chunk.js.map",
+    "index.html": "/nicolaReact/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/nicolaReact/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.fbafb762.chunk.js.LICENSE.txt": "/nicolaReact/static/js/2.fbafb762.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nicolaReact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b28730bd.js",
+    "static/js/2.fbafb762.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.f0780d52.chunk.js"
+  ]
+}
