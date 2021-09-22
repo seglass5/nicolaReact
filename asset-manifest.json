@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nicolaReact/static/css/main.bc224620.chunk.css",
-    "main.js": "/nicolaReact/static/js/main.a9f845db.chunk.js",
-    "main.js.map": "/nicolaReact/static/js/main.a9f845db.chunk.js.map",
+    "main.js": "/nicolaReact/static/js/main.10d309fb.chunk.js",
+    "main.js.map": "/nicolaReact/static/js/main.10d309fb.chunk.js.map",
     "runtime-main.js": "/nicolaReact/static/js/runtime-main.b28730bd.js",
     "runtime-main.js.map": "/nicolaReact/static/js/runtime-main.b28730bd.js.map",
     "static/js/2.ef744cbb.chunk.js": "/nicolaReact/static/js/2.ef744cbb.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b28730bd.js",
     "static/js/2.ef744cbb.chunk.js",
     "static/css/main.bc224620.chunk.css",
-    "static/js/main.a9f845db.chunk.js"
+    "static/js/main.10d309fb.chunk.js"
   ]
 }
