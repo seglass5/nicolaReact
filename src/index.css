@@ -8,6 +8,10 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  background-color: #000;
+  background-image: url('./NS.jpg');
+  background-position: center top;
+  background-repeat: no-repeat;
 }
 
 .container {
@@ -18,6 +22,7 @@ body {
   border: 1px solid steelblue;
   padding: 30px;
   border-radius: 5px;
+  background-color: aliceblue;
 }
 
 .header {
@@ -25,6 +30,7 @@ body {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 20px;
+  background-color: aliceblue;
 }
 
 .btn {
