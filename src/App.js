@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 //import InstagramEmbed from 'react-instagram-embed'
 
 import ns from './NS.jpg'
+import moreNs from './moreNS.jpg'
 
 function App() {
   const [view, setView] = useState(false)
@@ -28,7 +29,7 @@ function App() {
         I heard her boyfriend is <a href={"https://www.instagram.com/syzygie.music/"}>pretty cool</a>.
       </p>
       <Button onClick={onClick} color='steelblue' text='See More' />
-      {view ? <img src={ns} alt='Nicolasmells' style={{width:1000, height:900}} /> : ""}
+      {view ? <img src={moreNs} alt='Cute' style={{width:1000, height:900}} /> : ""}
       {/* <InstagramEmbed
         clientAccessToken='<appId>|<clientToken>'
         url='https://instagr.am/p/Ytlfl/'
